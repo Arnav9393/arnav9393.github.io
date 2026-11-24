@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid rgb(70, 70, 70);
+  padding: 6px 12px;
+  text-align: left;
+}
+
+th {
+  background-color: rgba(25, 99, 87, 0.2);
+}
